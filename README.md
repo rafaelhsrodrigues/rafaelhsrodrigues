@@ -5,12 +5,12 @@
 - ⚡ Fun fact: Me formei em Gastronomia anos atrás 👨‍🍳
 
 ##
-
+<!--
 <div align="left">
   <a href="https://github.com/rafaelhsrodrigues">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelhsrodrigues"/>
 </div>
-
+-->
 <div>
   <img align="center" alt="Rafael-Python" height="30" width="90" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img align="center" alt="Rafael-SQL" height="30" width="140"src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
