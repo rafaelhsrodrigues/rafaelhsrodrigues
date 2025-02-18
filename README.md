@@ -1,6 +1,6 @@
 <h2> Olá! Eu sou o Rafael Rodrigues 👋 </h2> 
 
-- 🔭 Trabalho como backoffice e atendimento a clientes.
+- 🔭 Trabalho como Instrutor e trabalhos utilizando IA.
 - 🌱 Estudo analise e desenvolvimento de sistema, e descobri que amo a area de **Dados** 📊. Por isso iniciei o curso 'Gerar Valor com Dados', nele estou aprendendo técnicas de estatistica, Excel avançado e SQL.
 - ⚡ Fun fact: Me formei em Gastronomia e hoje meu hobbie é cozinhar👨‍🍳
 
